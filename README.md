@@ -20,8 +20,11 @@ Inspired from "Multi-agent Hierarchical Reinforcement Learning with Dynamic Term
 ## MARL Simulation Mechanism
 
 • Quantity Choice: Each agent-firm decides quantity to produce of a non-differentiable good
+
 • Pricing Function: A function that determines price based on the total goods produced in the market
+
 • Profit Signal: Agent-firms are able to directly calculate their profits and use that as a directional signal of whether to increase or decrease quantity
+
 • Valuation Computation: **Discounted Future Cash-Flows** is the heuristic we will use to allow agents to calculate what their valuation will look like at time t based on what their profits will look like at time t+1
 
 ## Key Features
@@ -41,5 +44,7 @@ Inspired from "Multi-agent Hierarchical Reinforcement Learning with Dynamic Term
 For recruiters and engineers:
 
 • Innovative Application of Machine Learning: Highlights my ability to extend standard models (AI and Economic) by integrating concepts from different domains
+
 • Technical Proficiency: Demonstrates my expertise in Reinforcement Learning, Game Theory, and Adversarial Learning
+
 • Real-World Relevance: Provides insight into how firms might behave when focusing on long-term valuation, a critical consideration in business strategy
